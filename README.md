@@ -1,5 +1,5 @@
 ## 🌱 I’m currently learning Java.
-
+## 🔭 I’m a freshman CS major at Bilkent University.
 
 <!--
 **MuhammedAliSenel/MuhammedAliSenel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
